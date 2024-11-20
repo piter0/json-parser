@@ -1,0 +1,32 @@
+{
+  "foo1": "bar",
+  "foo2": [
+    {
+      "foo bar": 123,
+      "foobar": [
+        "foobar",
+        true,
+        false,
+        null,
+        {
+          "foo ooo": {
+            "foo?bar": "foo\"bar"
+          }
+        },
+        {
+          "": ""
+        },
+        {
+          "\\": "\\"
+        }
+      ]
+    }
+  ],
+  "foo3": [],
+  "foo4": {},
+  "foo5": false,
+  "foo6": true,
+  "foo7": null,
+  "foo8": 123.45e+10,
+  "foo9": 0.45e-11
+}
